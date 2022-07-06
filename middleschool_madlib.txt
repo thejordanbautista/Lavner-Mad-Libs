@@ -1,2 +1,6 @@
 Cybersecurity Mad Lib
-_________ (adjective) criminals use ransomware to _________ (verb) your computer. They often use phising _________ (plural noun) to trick you into downloading _________ (adjective) files or unsafe _________ (plural noun). These orograms can _________ (verb) your _________ (adjective) data and send them back to the _________ (occupation). Then you get a ransom _________ (noun) saying "Pay up or we'll _________ (verb) your _________!" (noun)
+_________ (adjective) criminals use ransomware to _________ (verb) your computer.
+They often use phising _________ (plural noun) to trick you into downloading _________ (adjective) files
+or unsafe _________ (plural noun). These orograms can _________ (verb) your _________ (adjective) 
+data and send them back to the _________ (occupation). Then you get a ransom _________ (noun) saying 
+"Pay up or we'll _________ (verb) your _________!" (noun)
