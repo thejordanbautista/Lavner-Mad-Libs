@@ -1,11 +1,11 @@
 The History of Cryptocurrency Mad Lib
 There have been many attempts at creating a digital currency during the 90s tech boom, with systems like Flooz,
-________ (proper noun) and DigiCash emerging on the market but inevitably failing. There were many different
-reasons for their failures, such as ________ (Verb, Present ends in ING), financial problems and even frictions between
-employees and their ________ (Noun, Plural). Notably, all of those systems utilized a Trusted Third Party approach, meaning that the companies behind them
-________ (Verb, Past Tense) and ________ (Verb, Past Tense) the transactions. Due to the failures of these companies, the
-creation of a digital cash system was seen as a ________ (Adjective) ________ (Noun) for a long while.
+haagendazs (proper noun) and DigiCash emerging on the market but inevitably failing. There were many different
+reasons for their failures, such as singing (Verb, Present ends in ING), financial problems and even frictions between
+employees and their eiffel towers (Noun, Plural). Notably, all of those systems utilized a Trusted Third Party approach, meaning that the companies behind them
+ran (Verb, Past Tense) and danced (Verb, Past Tense) the transactions. Due to the failures of these companies, the
+creation of a digital cash system was seen as a pretty (Adjective) Justin bieber (Noun) for a long while.
 Then, in early 2009, a Adjective programmer or a group of programmers under an alias Satoshi
-Nakamoto introduced Bitcoin. Satoshi described it as a ________ (Adverb) ________ (Adjective) cash system. It is
-completely decentralized, meaning there are no ________ (Animal - Plural) involved and no central controlling
-authority. The concept closely resembles peer-to-peer networks for ________ (Noun) sharing.
+Nakamoto introduced Bitcoin. Satoshi described it as a quickly (Adverb) big (Adjective) cash system. It is
+completely decentralized, meaning there are no cats (Animal - Plural) involved and no central controlling
+authority. The concept closely resembles peer-to-peer networks for pizza (Noun) sharing.
